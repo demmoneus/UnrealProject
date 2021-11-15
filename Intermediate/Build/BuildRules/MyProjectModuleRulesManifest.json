@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"D:\\Users\\weedy\\Documents\\Unreal Projects\\MyProject\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs",
+		"D:\\Users\\weedy\\Documents\\Unreal Projects\\MyProject\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs"
+	],
+	"EngineVersion": "4.27.1"
+}
